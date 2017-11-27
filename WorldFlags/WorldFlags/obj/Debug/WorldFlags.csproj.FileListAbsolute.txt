@@ -1,0 +1,10 @@
+c:\users\bobva_000\source\repos\WorldFlags\WorldFlags\bin\Debug\WorldFlags.exe.config
+c:\users\bobva_000\source\repos\WorldFlags\WorldFlags\bin\Debug\WorldFlags.exe
+c:\users\bobva_000\source\repos\WorldFlags\WorldFlags\bin\Debug\WorldFlags.pdb
+c:\users\bobva_000\source\repos\WorldFlags\WorldFlags\obj\Debug\WorldFlags.csprojResolveAssemblyReference.cache
+c:\users\bobva_000\source\repos\WorldFlags\WorldFlags\obj\Debug\WorldFlags.Form1.resources
+c:\users\bobva_000\source\repos\WorldFlags\WorldFlags\obj\Debug\WorldFlags.Properties.Resources.resources
+c:\users\bobva_000\source\repos\WorldFlags\WorldFlags\obj\Debug\WorldFlags.csproj.GenerateResource.Cache
+c:\users\bobva_000\source\repos\WorldFlags\WorldFlags\obj\Debug\WorldFlags.csproj.CoreCompileInputs.cache
+c:\users\bobva_000\source\repos\WorldFlags\WorldFlags\obj\Debug\WorldFlags.exe
+c:\users\bobva_000\source\repos\WorldFlags\WorldFlags\obj\Debug\WorldFlags.pdb
